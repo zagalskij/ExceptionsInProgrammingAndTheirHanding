@@ -1,0 +1,4 @@
+Contact{fio='Загальский Анатолий Анатольевич', dateOfBirth='1996.01.25', phoneNumber=89995188910, sex=m}
+Contact{fio='Загальский Анатолий Анатольевич', dateOfBirth='1996.01.25', phoneNumber=89995188910, sex=m}
+fio='Загальский Анатолий Анатольевич', dateOfBirth='1996.01.25', phoneNumber=89995188910, sex=m
+fio='Загальский Анатолий Анатольевич', dateOfBirth='1996.01.25', phoneNumber=89995188910, sex=m
